@@ -1,0 +1,3 @@
+time,mode,queue_r,queue_d,queue_l,queue_u,total_q,green_dir,generated,served
+0,FIXED,0,0,0,0,0,0,0,0
+0,AI,0,0,0,0,0,0,0,0
